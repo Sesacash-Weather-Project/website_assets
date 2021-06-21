@@ -1,7 +1,7 @@
 {
   "producer_account_name": "kandaweather",
   "org": {
-    "candidate_name": "Kanda Weather",
+    "candidate_name": "Kanda Weather Group",
     "website": "https://kandaweather.org",
     "code_of_conduct": "https://kandaweather.squarespace.com/conduct",
     "ownership_disclosure": "https://kandaweather.squarespace.com/our-team",
@@ -31,7 +31,7 @@
         "longitude": 18.4241
       },
       "node_type": "producer",
-      "p2p_endpoint": "http://http://kandaweather-testnet.ddns.net:8765"
+      "p2p_endpoint": "http://http://kandaweather-testnet.ddns.net:8765",
       "api_endpoint": "http://http://kandaweather-testnet.ddns.net:8887"
     },
     {
