@@ -1,0 +1,48 @@
+{
+  "producer_account_name": "kandaweather",
+  "org": {
+    "candidate_name": "Kanda Weather",
+    "website": "https://kandaweather.org",
+    "code_of_conduct": "https://kandaweather.squarespace.com/conduct",
+    "ownership_disclosure": "https://kandaweather.squarespace.com/our-team",
+    "email": "kandaweather@gmail.com",
+    "branding": {
+      "logo.jpg": "https://kandaweather.org/logo",
+    },
+    "location": {
+      "name": "Uyo",
+      "country": "Nigeria",
+      "latitude": 5.033841,
+      "longitude": 7.928159
+    },
+    "social": {
+      "twitter": "KandaWeather",
+      "github": "https://github.com/Sesacash-Weather-Project",
+      "telegram": "sunburntcat",
+      "steemit": "empato365"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Cape Town",
+        "country": "ZA",
+        "latitude": 33.9249,
+        "longitude": 18.4241
+      },
+      "node_type": "producer",
+      "p2p_endpoint": "http://http://kandaweather-testnet.ddns.net:8765"
+      "api_endpoint": "http://http://kandaweather-testnet.ddns.net:8887"
+    },
+    {
+      "location": {
+        "name": "Accra",
+        "country": "GH",
+        "latitude": 5.69009,
+        "longitude": -0.209766
+      },
+      "node_type": "seed",
+      "p2p_endpoint": "kandaweather-rpi-acity.ddns.com:8765"
+    }
+  ]
+}
