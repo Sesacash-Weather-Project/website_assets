@@ -8,7 +8,7 @@
     "ownership_disclosure": "https://kandaweather.squarespace.com/our-team",
     "email": "kandaweather@gmail.com",
     "branding": {
-      "logo_1024": "https://kandaweather.org/logo.jpg",
+      "logo_1024": "https://kandaweather.org/logo.jpg"
     },
     "location": {
       "name": "Uyo",
@@ -31,7 +31,7 @@
         "latitude": 33.9249,
         "longitude": 18.4241
       },
-      "node_type": "producer",
+      "node_type": "producer"
     },
     {
       "location": {
